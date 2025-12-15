@@ -110,8 +110,3 @@ python main.py update --id 2 --value 99
 ```bash
 python seed_data.py
 ```
-#1.  **Clonar el repositorio:**
-#    ```bash
-#    git clone (https://github.com/Rroa-dev/prueba_RPA_geret_Rodrigo_Moya_Roa.git)
-#    cd prueba_RPA_geret_Rodrigo_Moya_Roa
-#    ```
